@@ -1,6 +1,7 @@
 # Exercise: consume a web service via Ajax
 
-[Web Github Page to see execution: https://github.com/gaetano-di-salvo/ajax-simple-web-service-request/deployments/activity_log?environment=github-pages](https://github.com/gaetano-di-salvo/ajax-simple-web-service-request/deployments/activity_log?environment=github-pages)
+### [Web Github Page to see execution:
+https://gaetano-di-salvo.github.io/ajax-simple-web-service-request/](https://gaetano-di-salvo.github.io/ajax-simple-web-service-request/)
 
 - Time necessary : **1/2 day**
 - Work mode : **Solo**
